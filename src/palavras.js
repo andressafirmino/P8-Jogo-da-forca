@@ -1,3 +1,7 @@
+
+export default function Palavras() {
+
+
 const palavras = [
     "abacate", "abacaxi", "abelha", "abanador", "antologia", "amor", "aba", "abrigo", "abrir",
     "banana", "boi", "batata", "bacalhau", "bexiga", "bowl", "batedeira", "bisturi", "barreira", "banco",
@@ -24,4 +28,4 @@ const palavras = [
     "zebra", "zagueiro", "zero", "zoeira", "zepelim", "zinco", "zumbido"
 ]
 
-export default palavras
+}
